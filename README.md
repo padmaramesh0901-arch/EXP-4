@@ -38,14 +38,51 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+without filter:
+<img width="1600" height="1196" alt="image" src="https://github.com/user-attachments/assets/03196f88-ef74-4c51-85e6-2f7b85a1fc73" />
+<img width="859" height="541" alt="image" src="https://github.com/user-attachments/assets/2f9ef6e9-90c7-4056-870c-74f23b10f84a" />
+
+with filter:
+<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/21d7b035-3cf4-4a0e-a421-911db864c30b" />
+<img width="658" height="471" alt="image" src="https://github.com/user-attachments/assets/c4eeb7ab-93d8-4b79-af90-e5cf27b9691f" />
+
 Bridge rectifier with filter:
 
+<img width="1600" height="836" alt="image" src="https://github.com/user-attachments/assets/d8c6c39a-be59-4eaa-8e2c-7576e0d27cb7" />
+<img width="867" height="425" alt="image" src="https://github.com/user-attachments/assets/6d579432-0920-4db9-bd89-5341b20df8a3" />
+
+with filter:
+<img width="1600" height="640" alt="image" src="https://github.com/user-attachments/assets/77902bd0-7802-4bb0-96fc-1858c2fc68fa" />
+<img width="799" height="414" alt="image" src="https://github.com/user-attachments/assets/25b0ed14-ce70-4872-836c-d4cba1527dbf" />
+
 TABULAR COLUMN
-Rectifier without filter
+half wave rectifier:
+<img width="1600" height="694" alt="image" src="https://github.com/user-attachments/assets/cbb51cc2-efa6-4406-a0cd-0637f728da1d" />
+
+
 TABULAR COLUMN
-Rectifier with filter
+
+full wave rectifier:
+<img width="1600" height="584" alt="image" src="https://github.com/user-attachments/assets/fc10b461-fb9c-4185-b4f4-ad0666994062" />
+
 
 WAVEFORM:
+
+half wave rectifier:
+
+without filter:
+<img width="1517" height="910" alt="image" src="https://github.com/user-attachments/assets/3ffdad4d-beff-458e-9b8a-de0be3bc146b" />
+
+with filter:
+<img width="1307" height="703" alt="image" src="https://github.com/user-attachments/assets/67aeb02e-60d6-4415-a352-8cf6103dcaf8" />
+
+full wave rectifier:
+
+without filter:
+<img width="1309" height="708" alt="image" src="https://github.com/user-attachments/assets/420ae205-c0ce-4bf0-9165-a7a755d6aaee" />
+
+with filter:
+<img width="1318" height="715" alt="image" src="https://github.com/user-attachments/assets/1a98b75f-8cf8-4200-8072-1c1c71230dce" />
 
 
 RESULT:
